@@ -1,0 +1,1 @@
+$(".toggleReveal").hide(),$(".fa-search").click(function(){$(".toggleReveal").fadeIn("slow"),$(this).fadeOut(500)});
